@@ -1,6 +1,6 @@
 # ScreamBot
 
-made by: a_personlol@2828 and NotRiver#4436 (hit us up on discord if you have questions. a_personlol#2828 made this repo.
+made by: a_personlol#2828 and NotRiver#4436 (hit us up on discord if you have questions. a_personlol#2828 made this repo.
 
 This is the code and hardware specs for ScreamBot, the newest innovation in stupid BS science.
 
