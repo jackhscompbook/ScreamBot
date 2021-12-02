@@ -1,7 +1,5 @@
 # ScreamBot
 
-made by: a_personlol#2828 and NotRiver#4436 (hit us up on discord if you have questions. a_personlol#2828 made this repo.
-
 This is the code and hardware specs for ScreamBot, the newest innovation in stupid BS science.
 
 ScreamBot is a small robot that uses Haar Cascades to look for humans. It then screams. A lot of the code came from https://realpython.com/face-detection-in-python-using-a-webcam/ and https://realpython.com/face-recognition-with-python/. Thanks RealPython, you helped a ton!
